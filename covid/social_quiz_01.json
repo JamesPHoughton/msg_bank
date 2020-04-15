@@ -52,7 +52,7 @@
 
       "expected":3,
 
-      "select":"radio"
+      "type":"radio"
 
    },
    {
@@ -83,7 +83,7 @@
 
       "expected":3,
 
-      "select":"checkbox"
+      "type":"checkbox"
 
    },
    {
@@ -109,7 +109,7 @@
 
       "expected":3,
 
-      "select":"radio"
+      "type":"radio"
 
    },
 
@@ -137,7 +137,7 @@
 
       "expected":3,
 
-      "select":"radio"
+      "type":"radio"
 
    },
 
@@ -165,7 +165,7 @@
 
       "expected":3,
 
-      "select":"radio"
+      "type":"radio"
 
    },
 
@@ -191,7 +191,7 @@
 
       "expected":3,
 
-      "select":"checkbox"
+      "type":"checkbox"
 
    },
 
@@ -203,7 +203,7 @@
 
      "expected":"none",
 
-     "select":"text"
+     "type":"text"
 
    }
 ]

@@ -52,7 +52,7 @@
 
       "expected":3,
 
-      "select":"radio"
+      "type":"radio"
 
    },
    {
@@ -83,7 +83,7 @@
 
       "expected":3,
 
-      "select":"checkbox"
+      "type":"checkbox"
 
    }
 ]
