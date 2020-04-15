@@ -1,0 +1,210 @@
+{"questions":[
+
+   {
+
+      "Q":"To what extent are you worried about coronavirus?",
+
+      "As":[
+
+         "Not at all",
+
+         "2",
+
+         "3",
+
+         "4",
+
+         "5",
+
+         "6",
+
+         "Extremely"
+
+      ],
+
+      "expected":3,
+
+      "type":"radio"
+
+   },
+
+   {
+
+      "Q":"To what extent are other people worried about coronavirus?",
+
+      "As":[
+
+         "Not at all",
+
+         "2",
+
+         "3",
+
+         "4",
+
+         "5",
+
+         "6",
+
+         "Extremely"
+
+      ],
+
+      "expected":3,
+
+      "select":"radio"
+
+   },
+   {
+
+      "Q":"Which of the following measures do you intend to take to protect against coronavirus?",
+
+      "As":[
+
+         "Working from home",
+
+         "Wearing a mask",
+
+         "Remaining 6 feet away from others in public",
+
+         "Using hand sanitizer",
+
+         "Disinfecting surfaces and items",
+
+         "Avoiding restaurants and cafes",
+
+         "Using food pickup and delivery options",
+
+         "Self isolating",
+
+         "Seeking testing"
+
+      ],
+
+      "expected":3,
+
+      "select":"checkbox"
+
+   },
+   {
+      "Q":"How interesting was the discussion you had?",
+
+      "As":[
+
+         "Not at all",
+
+         "2",
+
+         "3",
+
+         "4",
+
+         "5",
+
+         "6",
+
+         "Extremely"
+
+      ],
+
+      "expected":3,
+
+      "select":"radio"
+
+   },
+
+   {
+
+      "Q":"How informative was the discussion you had?",
+
+      "As":[
+
+         "Not at all",
+
+         "2",
+
+         "3",
+
+         "4",
+
+         "5",
+
+         "6",
+
+         "Extremely"
+
+      ],
+
+      "expected":3,
+
+      "select":"radio"
+
+   },
+
+   {
+
+      "Q":"Did the other people in the discussion seem informed about coronavirus?",
+
+      "As":[
+
+         "Not at all",
+
+         "2",
+
+         "3",
+
+         "4",
+
+         "5",
+
+         "6",
+
+         "Extremely"
+
+      ],
+
+      "expected":3,
+
+      "select":"radio"
+
+   },
+
+   {
+
+      "Q":"Which of the following topics were mentioned in your discussion?",
+
+      "As":[
+
+         "Social distancing",
+
+         "Hand washing",
+
+         "Staying at home",
+
+         "The U.S. Government",
+
+         "Donald Trump",
+
+         "Deaths due to coronavirus"
+
+      ],
+
+      "expected":3,
+
+      "select":"checkbox"
+
+   },
+
+   {
+
+     "Q":"What other topics came up in your discussion?",
+
+     "As":[],
+
+     "expected":"none",
+
+     "select":"text"
+
+   }
+]
+}
