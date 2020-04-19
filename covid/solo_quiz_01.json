@@ -24,7 +24,9 @@
 
       "expected":3,
 
-      "type":"radio"
+      "type":"radio",
+
+      "layout":"horizontal"
 
    },
 
@@ -52,7 +54,9 @@
 
       "expected":3,
 
-      "type":"radio"
+      "type":"radio",
+
+      "layout":"horizontal"
 
    },
    {
@@ -83,7 +87,9 @@
 
       "expected":3,
 
-      "type":"checkbox"
+      "type":"checkbox",
+
+      "layout":"vertical"
 
    }
 ]
