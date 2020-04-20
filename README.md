@@ -1,4 +1,4 @@
-# msg_bank
+# Message Bank
 Static files for Pilot Messaging Study
 
 

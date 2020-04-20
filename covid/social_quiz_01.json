@@ -81,7 +81,9 @@
 
          "Self isolating",
 
-         "Seeking testing"
+         "Seeking testing",
+
+         "None of the above"
 
       ],
 
@@ -90,6 +92,16 @@
       "type":"checkbox",
 
       "layout":"vertical"
+
+   },
+   {
+     "Q":"Please list any measures you are taking to protect against coronavirus that were not listed above",
+
+     "As":["Enter text here"],
+
+     "expected":"none",
+
+     "type":"text"
 
    },
    {
@@ -197,7 +209,9 @@
 
          "Donald Trump",
 
-         "Deaths due to coronavirus"
+         "Deaths due to coronavirus",
+
+         "None of the above"
 
       ],
 
