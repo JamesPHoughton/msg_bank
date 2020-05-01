@@ -1,0 +1,156 @@
+{"questions":[
+
+   {
+      "Q":"When do you think Covid-19 social-distancing requirements should be lifted?",
+
+      "As":[
+
+         "Now",
+
+         "Within one week",
+
+         "Within one month",
+
+         "Within two months",
+
+         "Within three months",
+
+         "Within six months",
+
+         "More than six months"
+
+      ],
+
+      "expected":"",
+
+      "type":"radio",
+
+      "layout":"vertical"
+
+   },
+   {
+
+      "Q":"Should the US issue Covid-19 'Immunitiy Certificates'?",
+
+      "As":[
+
+         "Definitely not",
+
+         "Probably not",
+
+         "Maybe",
+
+         "Probably yes",
+
+         "Definitely yes"
+
+      ],
+
+      "expected":"",
+
+      "type":"radio",
+
+      "layout":"horizontal"
+
+   },
+   {
+
+      "Q":"Which of the following do you think are necessary before Covid-19 social-distancing requirements should be lifted?",
+
+      "As":[
+
+         "A vaccine is available",
+
+         "Medical system capacity is sufficient to handle another outbreak",
+
+         "People are comfortable returning to work",
+
+         "The weather is warm",
+
+         "The 'peak' number of infections has passed",
+
+         "Covid-19 testing is widely deployed",
+
+         "Manual contact tracing is widely deployed",
+
+         "Phone-based contact tracing is widely deployed",
+
+         "Treatment for the disease is available",
+
+         "None of the above"
+
+      ],
+
+      "expected":3,
+
+      "type":"checkbox",
+
+      "layout":"vertical"
+
+   },
+   {
+     "Q":"Please list any additional factors you consider relevant to lifting Covid-19 social distancing requirements:",
+
+     "As":["Enter text here"],
+
+     "expected":"none",
+
+     "type":"text"
+
+   },
+   {
+      "Q":"How many people do you know personally who have been infected with Covid-19?",
+
+      "As":[
+
+        "None",
+
+        "5 or fewer",
+
+        "5 to 10",
+
+        "10 to 15",
+
+        "15 to 20",
+
+        "20 to 25",
+
+        "More than 25"
+
+      ],
+
+      "expected":"",
+
+      "type":"radio",
+
+      "layout":"vertical"
+
+   },
+
+   {
+      "Q":"How strongly have you been personally affected by Covid-19?",
+
+      "As":[
+
+        "Much less than other people",
+
+        "Somewhat less than other people",
+
+        "About the same as other people",
+
+        "Somewhat more than other people",
+
+        "Much more than other people"
+
+      ],
+
+      "expected":"",
+
+      "type":"radio",
+
+      "layout":"vertical"
+
+   }
+]
+
+}
