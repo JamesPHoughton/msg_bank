@@ -247,17 +247,45 @@
 
          "A 'second-wave', 'flare-up' or resurgence of Covid-19",
 
-         "Covid-19 Testing",
+         "Covid-19 testing",
 
-         "Contact Tracing",
+         "Contact tracing",
 
          "Healthcare system capacity",
 
+         "Doctors, nurses, or other healthcare workers",
+
          "Immunity certificates",
 
-         "National Political Leaders",
+         "Medical studies",
 
-         "State-level Political Leaders",
+         "Donald Trump",
+
+         "Joe Biden",
+
+         "State-level political leaders",
+
+         "Political polls",
+
+         "China",
+
+         "Other countries",
+
+         "The 2020 election",
+
+         "Job losses",
+
+         "The stimulus program",
+
+         "We're all in this together",
+
+         "Health experts",
+
+         "Cost/benefit analysis",
+
+         "A permanent change in the economy",
+
+         "Airlines",
 
          "Personal or family cost of social isolation measures",
 
@@ -272,6 +300,36 @@
       "type":"checkbox",
 
       "layout":"vertical"
+
+   },
+
+   {
+
+      "Q":"Did you mention anything you saw in the message we shared in your discussion?",
+
+      "As":[
+
+         "Not at all",
+
+         "2",
+
+         "3",
+
+         "4",
+
+         "5",
+
+         "6",
+
+         "Definitely"
+
+      ],
+
+      "expected":3,
+
+      "type":"radio",
+
+      "layout":"horizontal"
 
    },
 
