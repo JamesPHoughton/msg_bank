@@ -1,6 +1,58 @@
 {"questions":[
 
    {
+     "Q":"How bad is the coronavirus pandemic for the US economy?",
+
+     "As":[
+
+        "Not at all bad",
+
+        "Somewhat bad",
+
+        "Very bad",
+
+        "Catastrophic",
+
+        "Not sure"
+
+     ],
+
+     "expected":"",
+
+     "type":"radio",
+
+     "layout":"vertical"
+
+  },
+  {
+     "Q":"To what extent has the US government's handling of the coronavirus pandemic been good or bad?",
+
+     "As":[
+
+        "Extremely bad",
+
+        "Bad",
+
+        "Somewhat bad",
+
+        "Neither good nor bad/Not sure",
+
+        "Somewhat good",
+       
+        "Good",
+
+        "Extremely good"
+
+     ],
+
+     "expected":"",
+
+     "type":"radio",
+
+     "layout":"horizontal"
+
+   },
+   {
       "Q":"When do you think Covid-19 social-distancing requirements should be lifted?",
 
       "As":[
