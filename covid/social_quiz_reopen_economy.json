@@ -53,7 +53,7 @@
 
   },
   {
-     "Q":"When do you think Covid-19 social-distancing requirements should be lifted?",
+     "Q":"When do you think coronavirus social-distancing requirements should be lifted?",
 
      "As":[
 
@@ -82,7 +82,7 @@
   },
   {
 
-     "Q":"Should the US issue Covid-19 'Immunitiy Certificates'?",
+     "Q":"Should the US issue coronavirus 'Immunitiy Certificates'?",
 
      "As":[
 
@@ -107,7 +107,7 @@
   },
   {
 
-     "Q":"Which of the following do you think are necessary before Covid-19 social-distancing requirements should be lifted?",
+     "Q":"Which of the following events do you think are necessary before coronavirus social-distancing requirements are lifted?",
 
      "As":[
 
@@ -141,7 +141,7 @@
 
   },
   {
-    "Q":"Please list any additional factors you consider relevant to lifting Covid-19 social distancing requirements:",
+    "Q":"Please list any additional factors you consider necessary for lifting coronavirus social-distancing requirements:",
 
     "As":["Enter text here"],
 
@@ -151,23 +151,23 @@
 
   },
   {
-     "Q":"How many people do you know personally who have been infected with Covid-19?",
+     "Q":"How many people do you know personally who have been infected with coronavirus?",
 
      "As":[
 
        "None",
 
-       "5 or fewer",
+       "1",
 
-       "5 to 10",
+       "2",
 
-       "10 to 15",
+       "3",
 
-       "15 to 20",
+       "4",
 
-       "20 to 25",
+       "5",
 
-       "More than 25"
+       "More than 5"
 
      ],
 
@@ -179,7 +179,7 @@
 
   },
   {
-     "Q":"How strongly have you been personally affected by Covid-19?",
+     "Q":"Compared to other people, how strongly has your life been affected by coronavirus?",
 
      "As":[
 
@@ -357,7 +357,7 @@
 
    {
 
-      "Q":"Did you mention anything you saw in the message we shared in your discussion?",
+      "Q":"Did you mention anything to your discussion partners about the information you saw prior to the discussion?",
 
       "As":[
 
@@ -387,7 +387,7 @@
 
    {
 
-     "Q":"What other topics came up in your discussion?",
+     "Q":"What other topics came up in your discussion, if any?",
 
      "As":["Enter text here"],
 
