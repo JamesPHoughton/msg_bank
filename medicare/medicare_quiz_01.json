@@ -9,7 +9,7 @@
           "Not at all favorable",
 
           "1",
- 
+
           "2",
 
           "3",
@@ -29,8 +29,6 @@
           "Very favorable"
 
        ],
-
-       "expected":3,
 
        "type":"radio"
 
@@ -66,9 +64,7 @@
 
        ],
 
-       "expected":3,
-
-       "select":"radio"
+       "type":"radio"
 
     },
     {
@@ -101,9 +97,7 @@
 
        ],
 
-       "expected":3,
-
-       "select":"radio"
+       "type":"radio"
 
     }
 
