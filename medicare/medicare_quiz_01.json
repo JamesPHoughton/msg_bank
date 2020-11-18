@@ -1,23 +1,23 @@
-{"shared":[
+{"questions":[
 
     {
- 
+
        "Q":"How favorable is your view of Medicare for All, a plan to provide universal health care with no premiums or deductibles?",
- 
+
        "As":[
- 
+
           "Not at all favorable",
 
           "1",
  
           "2",
- 
+
           "3",
- 
+
           "4",
- 
+
           "5",
- 
+
           "6",
 
           "7",
@@ -25,35 +25,35 @@
           "8",
 
           "9",
- 
+
           "Very favorable"
- 
+
        ],
- 
+
        "expected":3,
- 
+
        "type":"radio"
- 
+
     },
- 
+
     {
- 
+
        "Q":"Would you favor or oppose enacting Medicare for All?",
- 
+
        "As":[
- 
+
           "Strongly oppose",
 
           "1",
- 
+
           "2",
- 
+
           "3",
- 
+
           "4",
- 
+
           "5",
- 
+
           "6",
 
           "7",
@@ -61,22 +61,22 @@
           "8",
 
           "9",
- 
+
           "Strongly favor"
- 
+
        ],
- 
+
        "expected":3,
- 
+
        "select":"radio"
- 
+
     },
     {
- 
+
        "Q":"How important is it for you to learn more about Medicare for All?",
- 
+
        "As":[
- 
+
         "Not at all important",
 
         "1",
@@ -98,16 +98,16 @@
         "9",
 
         "Very important"
- 
+
        ],
- 
+
        "expected":3,
- 
+
        "select":"radio"
- 
+
     }
- 
- 
+
+
   ]
 
 }
