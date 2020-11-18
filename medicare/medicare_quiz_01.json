@@ -30,7 +30,9 @@
 
        ],
 
-       "type":"radio"
+       "type":"radio",
+
+       "layout":"horizontal"
 
     },
 
@@ -64,7 +66,9 @@
 
        ],
 
-       "type":"radio"
+       "type":"radio",
+
+       "layout":"horizontal"
 
     },
     {
@@ -97,7 +101,9 @@
 
        ],
 
-       "type":"radio"
+       "type":"radio",
+
+       "layout":"horizontal"
 
     }
 
